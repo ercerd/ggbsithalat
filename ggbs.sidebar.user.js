@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GGBS Sidebar Mistral Ai Kompakt
 // @namespace    http://tampermonkey.net/
-// @version      1.17
+// @version      1.18
 // @description  Adds a sidebar with buttons to select specific values from dropdowns in any iframe and click a specific button
 // @author       Your Name
 // @match        http://172.20.20.103/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
@@ -13,6 +13,8 @@
 // @match        http://172.20.20.109/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
 // @match        https://ggbs.tarim.gov.tr/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
 // @match        http://ggbs.tarim.gov.tr/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
+// @updateURL   https://raw.githubusercontent.com/ercerd/ggbsithalat/main/karantina-sorgulama-dropdown.user.js
+// @downloadURL https://raw.githubusercontent.com/ercerd/ggbsithalat/main/karantina-sorgulama-dropdown.user.js
 // @grant        GM_log
 // @grant        GM_addStyle
 // ==/UserScript==
