@@ -13,8 +13,8 @@
 // @match        http://172.20.20.109/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
 // @match        https://ggbs.tarim.gov.tr/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
 // @match        http://ggbs.tarim.gov.tr/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
-// @updateURL   https://raw.githubusercontent.com/ercerd/ggbsithalat/main/karantina-sorgulama-dropdown.user.js
-// @downloadURL https://raw.githubusercontent.com/ercerd/ggbsithalat/main/karantina-sorgulama-dropdown.user.js
+// @updateURL   https://raw.githubusercontent.com/ercerd/ggbsithalat/main/ggbs.sidebar.user.js
+// @downloadURL https://raw.githubusercontent.com/ercerd/ggbsithalat/main/ggbs.sidebar.user.js
 // @grant        GM_log
 // @grant        GM_addStyle
 // ==/UserScript==
