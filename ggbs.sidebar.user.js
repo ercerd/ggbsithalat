@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GGBS Sidebar Mistral Ai Kompakt
+// @name         GGBS Sidebar
 // @namespace    http://tampermonkey.net/
 // @version      1.18
 // @description  Adds a sidebar with buttons to select specific values from dropdowns in any iframe and click a specific button
