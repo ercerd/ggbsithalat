@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GGBS Sidebar
 // @namespace    http://tampermonkey.net/
-// @version      1.18
+// @version      1.19
 // @description  Adds a sidebar with buttons to select specific values from dropdowns in any iframe and click a specific button
 // @author       Your Name
 // @match        http://172.20.20.103/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
@@ -483,7 +483,7 @@
     };
 
     const createSquareButtons = (parentElement) => {
-        const buttonLabels = ['ANK', 'BAL', 'İZM', 'İL', 'MGA', 'MRL', 'MSM', 'PMG', 'SOU', 'STA'];
+        const buttonLabels = ['ANK', 'BAL', 'İZM', 'İL', 'MGA', 'MRL', 'MSM', 'PMG', 'SİA' 'SOU', 'STA'];
         const buttonContainer = document.createElement('div');
         buttonContainer.className = 'square-button-container';
         buttonContainer.style.display = 'grid';
