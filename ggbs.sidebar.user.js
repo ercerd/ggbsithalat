@@ -483,7 +483,7 @@
     };
 
     const createSquareButtons = (parentElement) => {
-        const buttonLabels = ['ANK', 'BAL', 'İZM', 'İL', 'MGA', 'MRL', 'MSM', 'PMG', 'SİA' 'SOU', 'STA'];
+    const buttonLabels = ['ANK', 'BAL', 'İST', 'İZM', 'İL', 'MGA', 'MRL', 'MSM', 'PMG', 'SİA', 'SOU', 'STA'];
         const buttonContainer = document.createElement('div');
         buttonContainer.className = 'square-button-container';
         buttonContainer.style.display = 'grid';
