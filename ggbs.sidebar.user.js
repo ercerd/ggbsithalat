@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GGBS Sidebar
 // @namespace    http://tampermonkey.net/
-// @version      1.19
+// @version      1.20
 // @description  Adds a sidebar with buttons to select specific values from dropdowns in any iframe and click a specific button
 // @author       Your Name
 // @match        http://172.20.20.103/cis/servlet/StartCISPage?PAGEURL=/FSIS/ggbs.giris.html&POPUPTITLE=AnaMenu
